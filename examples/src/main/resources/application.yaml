@@ -1,0 +1,5 @@
+camunda.bpm:
+  generic-properties:
+    properties:
+      # the system acts with the legacy behaviour, allowing historyTimeToLive to be null for the aforementioned models deployment
+      enforceHistoryTimeToLive: false
