@@ -4,7 +4,7 @@
 
   <parent>
     <groupId>camunda-bpm-examples</groupId>
-    <artifactId>camunda-bpm-test-root</artifactId>
+    <artifactId>camunda-bpm-test-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
 

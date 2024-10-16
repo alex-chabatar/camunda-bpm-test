@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>camunda-bpm-examples</groupId>
-  <artifactId>camunda-bpm-test-root</artifactId>
+  <artifactId>camunda-bpm-test-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Camunda BPM Test Platform</name>
