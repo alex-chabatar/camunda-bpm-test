@@ -11,7 +11,7 @@
   <properties>
 
     <version.java>17</version.java>
-    <spring.boot.version>3.3.4</spring.boot.version>
+    <spring.boot.version>3.3.5</spring.boot.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
@@ -28,7 +28,7 @@
 
     <!-- OWASP Vulnerability Checks, see https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html -->
     <owaspcheck.version>8.4.3</owaspcheck.version>
-    <snakeyaml.version>2.2</snakeyaml.version> <!-- snakeyaml-1.30.jar: CVE-2022-25857(7.5) -->
+    <snakeyaml.version>2.3</snakeyaml.version> <!-- snakeyaml-1.30.jar: CVE-2022-25857(7.5) -->
 
   </properties>
 
